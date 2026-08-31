@@ -1,6 +1,6 @@
 # lista02-udwmj
 Lista 02 - UDMWJ
-Resolução da segunda lista de exercícios da disciplina de Usabilidade, Desenvolvimento Web, Mobile e Jogos.
+# Resolução da segunda lista de exercícios da disciplina de Usabilidade, Desenvolvimento Web, Mobile e Jogos.
 
 # Exercícios
 01- Cartão de visitas digital
@@ -10,4 +10,4 @@ Resolução da segunda lista de exercícios da disciplina de Usabilidade, Desenv
 05-Card de notícia
 06-Tabela de preços
 07-Rodapé de site
-Cada exercício está em sua própria pasta, com um arquivo HTML e um arquivo CSS.
+# Cada exercício está em sua própria pasta, com um arquivo HTML e um arquivo CSS.
