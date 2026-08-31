@@ -2,7 +2,7 @@
 Lista 02 - UDMWJ
 Resolução da segunda lista de exercícios da disciplina de Usabilidade, Desenvolvimento Web, Mobile e Jogos.
 
-Exercícios
+# Exercícios
 01- Cartão de visitas digital
 02- Perfil do Homem de Ferro
 03- Receita de brigadeiro
